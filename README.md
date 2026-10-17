@@ -1,6 +1,5 @@
-# SPADE
-
-**Scary Prompt Assessment and Dataset Evaluation**
+# HELIOS
+Heuristic Evaluation of Lexical Intent and Operating-point Shifts in Malicious Prompt Detection.
 
 A unified benchmark and empirical study of malicious prompt detection.
 
