@@ -1,4 +1,0 @@
-policy,n_after,clusters_dropped,n_sources_present,malicious_rate,max_source_share
-first,33357,0,9,0.2322,0.4142
-majority_source,33357,0,9,0.2322,0.4147
-drop_multisource,33285,72,9,0.2316,0.4151
