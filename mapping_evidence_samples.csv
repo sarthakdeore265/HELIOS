@@ -1,0 +1,76 @@
+source,label,attack_type_counts
+advbench,1,{'harmful': 499}
+advbench,1,{'harmful': 499}
+advbench,1,{'harmful': 499}
+advbench,1,{'harmful': 499}
+advbench,1,{'harmful': 499}
+advbench_strings,1,{'harmful': 563}
+advbench_strings,1,{'harmful': 563}
+advbench_strings,1,{'harmful': 563}
+advbench_strings,1,{'harmful': 563}
+advbench_strings,1,{'harmful': 563}
+beavertails,1,"{'harmful': 4337, 'benign': 3220}"
+beavertails,1,"{'harmful': 4337, 'benign': 3220}"
+beavertails,1,"{'harmful': 4337, 'benign': 3220}"
+beavertails,1,"{'harmful': 4337, 'benign': 3220}"
+beavertails,1,"{'harmful': 4337, 'benign': 3220}"
+beavertails,0,"{'harmful': 4337, 'benign': 3220}"
+beavertails,0,"{'harmful': 4337, 'benign': 3220}"
+beavertails,0,"{'harmful': 4337, 'benign': 3220}"
+beavertails,0,"{'harmful': 4337, 'benign': 3220}"
+beavertails,0,"{'harmful': 4337, 'benign': 3220}"
+deepset,1,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,1,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,1,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,1,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,1,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,0,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,0,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,0,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,0,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+deepset,0,"{'benign': 362, 'injection': 248, 'jailbreak': 2}"
+jailbreakbench,1,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,1,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,1,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,1,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,1,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,0,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,0,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,0,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,0,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakbench,0,"{'benign': 99, 'jailbreak': 98, 'harmful': 2}"
+jailbreakhub,1,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,1,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,1,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,1,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,1,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,0,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,0,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,0,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,0,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub,0,"{'benign': 12616, 'jailbreak': 1200}"
+jailbreakhub_forbidden,1,{'forbidden_question': 388}
+jailbreakhub_forbidden,1,{'forbidden_question': 388}
+jailbreakhub_forbidden,1,{'forbidden_question': 388}
+jailbreakhub_forbidden,1,{'forbidden_question': 388}
+jailbreakhub_forbidden,1,{'forbidden_question': 388}
+toxicchat,1,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,1,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,1,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,1,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,1,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,0,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,0,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,0,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,0,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+toxicchat,0,"{'benign': 9121, 'jailbreak': 155, 'harmful': 6, 'safe_but_scary': 1}"
+xstest,1,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,1,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,1,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,1,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,1,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,0,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,0,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,0,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,0,"{'safe_but_scary': 244, 'harmful_request': 196}"
+xstest,0,"{'safe_but_scary': 244, 'harmful_request': 196}"
