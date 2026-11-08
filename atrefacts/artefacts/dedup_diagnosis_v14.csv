@@ -1,0 +1,2 @@
+variant,threshold,n_pairs,n_same_source,n_label_conflict,max_cos
+vectoriser fit on retained (deduplicated) corpus,0.95,1040,993,83,0.9998892518928444
